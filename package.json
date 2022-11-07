@@ -1,0 +1,19 @@
+{
+  "name": "pac-man",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pacMan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeraphF2P/Pac-man.git1~.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SeraphF2P/Pac-man.git1~/issues"
+  },
+  "homepage": "https://github.com/SeraphF2P/Pac-man.git1~#readme"
+}

@@ -1,0 +1,79 @@
+
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 560px;
+  height: 560px;
+  border: solid black;
+}
+.backGround {
+  background-color: rgb(97, 58, 7);
+  width: 560px;
+  height: 560px;
+  z-index: -1;
+}
+div {
+  width: 20px;
+  height: 20px;
+}
+/* .emty {
+  background-color: rgb(97, 58, 7);
+} */
+.pac-dot {
+  background-color: rgb(243, 180, 114);
+  border: 5px solid rgb(97, 58, 7);
+  box-sizing: border-box;
+}
+.wall {
+  background-color: black;
+}
+.power-pellet {
+  background-color: rgb(172, 97, 5);
+  border-radius: 10px;
+}
+.pacMan {
+  background-color: yellow;
+  border-radius: 10px;
+  z-index: 1;
+  border: 0px;
+}
+body {
+  background-color: antiquewhite;
+  width: 560px;
+  height: 560px;
+}
+.ghost-liar {
+  background-color: rgb(145, 29, 154);
+}
+
+.blinky {
+  background-color: red;
+  border: 0px solid transparent;
+  border-radius: 10px 10px 0 0;
+}
+.pinky {
+  background-color: pink;
+  border: 0px transparent;
+  border-radius: 10px 10px 0 0;
+}
+.inky {
+  background-color: cyan;
+  border-radius: 10px 10px 0 0;
+  border: 0px transparent;
+}
+.clyde {
+  border-radius: 10px 10px 0 0;
+  background-color: orange;
+  border: 0px transparent;
+}
+.sam {
+  border-radius: 10px 10px 0 0;
+  background-color: rgb(127, 10, 205);
+  border: 0px transparent;
+}
+.scared-ghost{
+  border-radius: 10px 10px 0 0;
+  border: 0px transparent;
+  background-color: blue;
+}
